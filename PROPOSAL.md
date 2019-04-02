@@ -4,10 +4,7 @@ Guiding questions are in comments; add your answers outside the comments, where 
 
 
 <!-- Who is working on this project? -->
-Jenny Herrle
-Margaret Palko
-Nicole Dash
-Beth Johnson
+Jenny Herrle, Margaret Palko, Nicole Dash, Beth Johnson
 
 <!-- What's the basic pitch for the Twine narrative? Where do you start? Who do you play as? What's the genre? -->
 The basic pitch is a survival game. The starting scene is that a family's boat crashes onto an island in the middle of the ocean, and you have a choice to play as the mother, the father, the son, or the daughter. Each of the four characters has a different narrative and many of the individual storylines converge.  
